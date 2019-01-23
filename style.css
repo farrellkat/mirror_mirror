@@ -1,0 +1,14 @@
+#blue {
+    border: 1px solid blue;
+    flex-basis: 50%;
+
+}
+#red {
+    border: 1px solid red;
+    flex-basis: 50%;
+}
+
+.mirror__container {
+    display: flex;
+    flex-direction: row; 
+}
